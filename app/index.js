@@ -48,7 +48,7 @@ export default function App() {
             </View>
           </View>
           <View style={styles.boxTextUser}>
-            <Text style={[styles.titulo, styles.textoUser]}>Olá, Lucas</Text>
+            <Text style={[styles.titulo, styles.textoUser]}>Olá, Luiz</Text>
           </View>
         </View>
 
